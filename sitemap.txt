@@ -1,9 +1,9 @@
 https://vaycent.com/posts/30409/
 https://vaycent.com/posts/35136/
 https://vaycent.com/posts/60287/
-https://vaycent.com/posts/7303/
-https://vaycent.com/posts/14518/
 https://vaycent.com/posts/54400/
+https://vaycent.com/posts/14518/
+https://vaycent.com/posts/7303/
 https://vaycent.com/posts/50378/
 https://vaycent.com/posts/62962/
 https://vaycent.com/posts/52559/
@@ -15,11 +15,11 @@ https://vaycent.com/posts/43294/
 https://vaycent.com/posts/59356/
 https://vaycent.com/posts/34872/
 https://vaycent.com/posts/47381/
-https://vaycent.com/categories/index.html
 https://vaycent.com/links/index.html
+https://vaycent.com/categories/index.html
+https://vaycent.com/books/index.html
 https://vaycent.com/repository/index.html
 https://vaycent.com/search/index.html
-https://vaycent.com/books/index.html
 https://vaycent.com/tags/index.html
 https://vaycent.com/posts/30664/
 https://vaycent.com/posts/51087/

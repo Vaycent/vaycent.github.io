@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://vaycent.com/posts/7303/</loc>
+    <loc>https://vaycent.com/posts/54400/</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://vaycent.com/posts/54400/</loc>
+    <loc>https://vaycent.com/posts/7303/</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -155,6 +155,15 @@
   </url>
   
   <url>
+    <loc>https://vaycent.com/links/index.html</loc>
+    
+    <lastmod>2025-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vaycent.com/categories/index.html</loc>
     
     <lastmod>2025-04-25</lastmod>
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://vaycent.com/links/index.html</loc>
+    <loc>https://vaycent.com/books/index.html</loc>
     
     <lastmod>2025-04-25</lastmod>
     
@@ -183,15 +192,6 @@
   
   <url>
     <loc>https://vaycent.com/search/index.html</loc>
-    
-    <lastmod>2025-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaycent.com/books/index.html</loc>
     
     <lastmod>2025-04-25</lastmod>
     
